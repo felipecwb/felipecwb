@@ -37,17 +37,17 @@
 </p>
 <br/>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=felipecwb&theme=dark" alt="felipecwb" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecwb&theme=dark" alt="felipecwb" />
 </p>
 <br />
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=felipecwb&show_icons=true&theme=onedark&locale=en" alt="felipecwb" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecwb&show_icons=true&theme=onedark&locale=en&layout=compact" alt="felipecwb" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipecwb&show_icons=true&theme=onedark&locale=en" alt="felipecwb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecwb&show_icons=true&theme=onedark&locale=en&layout=compact" alt="felipecwb" />
 </p>
 <br />
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipecwb" alt="felipecwb" /></a>
 </p>
