@@ -24,6 +24,7 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+  <br />
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
@@ -37,17 +38,21 @@
 </p>
 <br/>
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipecwb&theme=dark" alt="felipecwb" />
 </p>
 <br />
-
+-->
+<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipecwb&show_icons=true&theme=onedark&locale=en" alt="felipecwb" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecwb&show_icons=true&theme=onedark&locale=en&layout=compact" alt="felipecwb" />
+  <a href="https://github.com/felipecwb"><img src="https://github-readme-stats.vercel.app/api?username=felipecwb&show_icons=true&theme=onedark&locale=en" alt="felipecwb" align="top"/></a>
+  <a href="https://github.com/felipecwb"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipecwb&theme=transparent&show_icons=true" alt="felipecwb" align="top"/></a>
 </p>
 <br />
+-->
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipecwb" alt="felipecwb" /></a>
+<p align="left">
+  <a href="https://github.com/felipecwb"><img src="https://github-profile-trophy.vercel.app/?username=felipecwb&no-bg=true&no-frame=true&row=2&column=4" alt="felipecwb" align="top"/></a>
 </p>
+
