@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/felipecwb/)
 
-- <a href="https://twitter.com/felipechicocwb" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipechicocwb" height="18" width="18" /></a> Doing nothing on [twitter/felipechicocwb](https://twitter.com/felipechicocwb)
-
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
